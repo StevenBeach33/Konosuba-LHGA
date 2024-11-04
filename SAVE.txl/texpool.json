@@ -1,0 +1,76 @@
+{
+  "texWidth": 1024,
+  "texHeight": 256,
+  "texMetadatas": [
+    {
+      "format": 37,
+      "levels": 1
+    }
+  ],
+  "sprites": [
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 0,
+      "y": 192,
+      "width": 229,
+      "height": 32
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 792,
+      "y": 40,
+      "width": 228,
+      "height": 128
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 396,
+      "y": 116,
+      "width": 228,
+      "height": 128
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 0,
+      "y": 0,
+      "width": 957,
+      "height": 35
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 628,
+      "y": 172,
+      "width": 241,
+      "height": 34
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 0,
+      "y": 40,
+      "width": 390,
+      "height": 70
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 396,
+      "y": 40,
+      "width": 390,
+      "height": 70
+    },
+    {
+      "layer": 1,
+      "texNum": 0,
+      "x": 0,
+      "y": 116,
+      "width": 390,
+      "height": 70
+    }
+  ]
+}
